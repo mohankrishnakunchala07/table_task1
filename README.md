@@ -1,5 +1,5 @@
 | Name  | Age | City        |
 | ----- | --: | ----------- |
-| John  |  25 | New York    |
+| steve  |  26 | Washington    |
 | Alice |  30 | Los Angeles |
 | Bob   |  35 | Chicago     |
